@@ -21,6 +21,25 @@ function getTime() {
     minutes = today.getMinutes();
 
     if (hours < 10) {
-        hours = "0" + hours
+        hours = "0" + hours // 05:19 
     }
+
+    let time = hours + ":" + minutes;
+    return time;
+}
+
+function firstBotMessage() {
+    let firstMessage = "How's it going?";
+    document.getElementById("botStartedMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
+    
+    let time = getTime();
+
+    $("#chat-timestamp").append(time);
+    document.getElementById("userInput").scrollIntoView(false);
+}
+
+firstBotMessage();
+
+function getHardResponse(userText) {
+    let botResponse = getBotResponse(userText);
 }
