@@ -24,7 +24,7 @@ On the other hand, a chatbot can be used for employee training. Bots offer a goo
 ## Steps to execute this project:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Chatbot](https://anthonys1760.github.io/chat-bot)
+- [View Live Chatbot](https://anthonys1760.github.io/jschatbot/)
 
 ## Technologies used: 
 - HTML
