@@ -14,11 +14,11 @@ On the other hand, a chatbot can be used for employee training. Bots offer a goo
 
 ## Common Use Cases:
 
-    - Customer Service: Answering FAQs, support in case of problems.
-    - Marketing: Lead generation, product consulting, data collection, increase interaction
-    - Sales: Qualification of leads, support throughout the sales funnel
-    - IT Service Helpdesk: Support for internal or external service desk applications
-    - HR: Support in personnel development or onboarding
+- Customer Service: Answering FAQs, support in case of problems.
+- Marketing: Lead generation, product consulting, data collection, increase interaction
+- Sales: Qualification of leads, support throughout the sales funnel
+- IT Service Helpdesk: Support for internal or external service desk applications
+- HR: Support in personnel development or onboarding
 
 
 ## Steps to execute this project:
